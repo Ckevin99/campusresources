@@ -28,7 +28,7 @@ footer ul li a{
     padding: 13px 18px;
   }
 nav ul li a:hover, footer ul li a:hover {
-    background-color: #111;
+    background-color: darkslategray;
   }
 
 #main {
