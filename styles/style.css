@@ -5,6 +5,25 @@ a, h1, h2, h3, h4, p {
   font-family: "Roboto";
 }
 
+/* 
+--primaryColor: #006eb6;
+    --secondaryColor: #a2daff;
+
+    --grayscaleOne: #faf9f9;
+    --grayscaleTwo: #f1eced;
+    --grayscaleThree: #e6dfe0;
+    --grayscaleFour: #f0f0f0;
+    --grayscaleFive: #949494;
+    --grayscaleSix: #656565;
+
+    --primaryTextColor: #141414;
+    --secondaryTextColor:#141414;
+    --inverseTextColor:#ffffff;
+    --quoteTextColor:#000000;
+
+    --linkTextColor: #006eb6;
+    --linkHoverColor: #1764aa;
+     */
 
 body{
 
@@ -54,7 +73,7 @@ nav ul li a:hover, footer ul li a:hover {
 
   }
 
-#sec1{
+#important{
     grid-row: 1/4;
     grid-column: 1/13;
     background-color: gray;
@@ -66,14 +85,14 @@ nav ul li a:hover, footer ul li a:hover {
 
 
   }
-#sec2{
+#home-img1{
     grid-row: 4/7;
     grid-column: 9/13;
     background-color: lightgray;
     border-radius: 20px;
 
   }
-#sec3{
+#acedemics{
     grid-row: 4/7;
     grid-column: 1/9;
     background-color: gray;
@@ -81,7 +100,7 @@ nav ul li a:hover, footer ul li a:hover {
     margin: 10px;
     padding: 10px;
   }
-#sec4{
+#campus-event{
     grid-row: 7/10;
     grid-column: 4/13;
     background-color: gray;
@@ -89,7 +108,7 @@ nav ul li a:hover, footer ul li a:hover {
     margin: 10px;
     padding: 10px;
   }
-#sec5{
+#home-img2{
     grid-row: 7/10;
     grid-column: 1/4;
     background-color: lightgray;
