@@ -81,10 +81,8 @@ nav ul li a:hover, footer ul li a:hover {
     border-radius: 20px;
     margin: 15px;
     padding: 15px;
-
-
-
   }
+  
 #home-img1{
     grid-row: 4/7;
     grid-column: 9/13;
