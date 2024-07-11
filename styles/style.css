@@ -61,7 +61,7 @@ nav ul li a:hover, footer ul li a:hover {
     background-color: darkslategray;
   }
 
-#main {
+#main ,#main-academic ,#main-local ,#main-outdoors ,#main-student{
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: repeat(12, 1fr);
     background-color: white;
@@ -114,46 +114,4 @@ nav ul li a:hover, footer ul li a:hover {
     border-radius: 20px;
     margin: 10px;
     padding: 10px;
-  }
-#selector{
-    background-color: gray;
-    grid-row: 10/11;
-    grid-column: 5/9;
-    border-radius: 30px;
-    margin: 10px;
-    padding: 10px;
-    
-
-}
-
-#selector ul li{
-    float: left;
-
-  }
-  
-#selector ul li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 10px 18px;
-    text-decoration: none;
-    margin-left: 10px;
-    margin-right: 10px;
-
-  }
-  #selector ul li a{
-    padding: 6px 3px;
-  }
-    
-#selector ul li {
-    float: left;
-  }
-#selector ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-
-  }
-  #selector ul li a:hover {
-    background-color: black;
   }
