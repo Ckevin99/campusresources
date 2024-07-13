@@ -1,0 +1,24 @@
+/* #main-academic{
+ 
+} */
+
+#academic-page-card{
+    grid-column: 2/3;
+    grid-row: 2/4;
+}
+
+
+#advising-card{
+    grid-column: 2/3;
+    grid-row: 2/4;
+}
+
+
+#tutoring-card{
+    grid-column: 2/3;
+    grid-row: 2/4;
+}
+#about-video{
+    grid-column: 2/3;
+    grid-row: 2/4;
+}
