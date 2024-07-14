@@ -16,6 +16,9 @@ body {
   max-height: 1440px;
   margin: 0 auto;
 }
+#logo a{
+  padding: 12px 12px;
+}
 
 nav ul, footer ul {
   list-style-type: none;
