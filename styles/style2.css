@@ -9,6 +9,14 @@ a, h1, h2, h3, h4, p {
     /* text-shadow: 2px 2px gray; 
 }*/
 
+<<<<<<< Updated upstream
+=======
+#logo img{
+ max-width: 150px;
+ padding-left: 25px;
+ padding-right: 25px;
+}
+>>>>>>> Stashed changes
 
 body {
   background-color: #2A2A2E;
@@ -16,9 +24,12 @@ body {
   max-height: 1440px;
   margin: 0 auto;
 }
+<<<<<<< Updated upstream
 #logo a{
   padding: 12px 12px;
 }
+=======
+>>>>>>> Stashed changes
 
 nav ul, footer ul {
   list-style-type: none;
@@ -40,6 +51,10 @@ nav ul li a, footer ul li a {
   text-decoration: none;
   align-items: center;
   transition: background-color 0.3s;
+<<<<<<< Updated upstream
+=======
+  padding-top: 75%;
+>>>>>>> Stashed changes
 }
 
 footer ul li a {
@@ -87,7 +102,11 @@ nav ul li a:hover, footer ul li a:hover {
   background-color: white;
 }
 
+<<<<<<< Updated upstream
 #local_title {
+=======
+#local_title , #student_title {
+>>>>>>> Stashed changes
   grid-row: 2/3;
   grid-column: 1/4;
   text-align: center;
@@ -195,7 +214,10 @@ video{
 
   #divgrid1, #divgrid2, #divgrid3, #divgrid4, #divgrid5, #divgrid6, #divgrid7, #divgrid8, #divgrid9 {
     grid-column: 1;
+<<<<<<< Updated upstream
     box-shadow: 0 2px 4px #575757; 
+=======
+>>>>>>> Stashed changes
     grid-row: auto;
   }
 
@@ -251,7 +273,10 @@ video{
     #divgrid1, #divgrid2, #divgrid3, #divgrid4, #divgrid5, #divgrid6, #divgrid7, #divgrid8, #divgrid9 {
       grid-column: 1;
       grid-row: auto;
+<<<<<<< Updated upstream
       box-shadow: 0 1px 2px #575757; 
+=======
+>>>>>>> Stashed changes
     }
     #divgrid2{
         grid-row: 3/4;
