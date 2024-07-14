@@ -195,6 +195,7 @@ video{
 
   #divgrid1, #divgrid2, #divgrid3, #divgrid4, #divgrid5, #divgrid6, #divgrid7, #divgrid8, #divgrid9 {
     grid-column: 1;
+    box-shadow: 0 2px 4px #575757; 
     grid-row: auto;
   }
 
@@ -250,6 +251,7 @@ video{
     #divgrid1, #divgrid2, #divgrid3, #divgrid4, #divgrid5, #divgrid6, #divgrid7, #divgrid8, #divgrid9 {
       grid-column: 1;
       grid-row: auto;
+      box-shadow: 0 1px 2px #575757; 
     }
     #divgrid2{
         grid-row: 3/4;
