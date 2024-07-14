@@ -83,7 +83,7 @@ nav ul li a:hover, footer ul li a:hover {
 }
 
 
-#main ,#main-local ,#main-outdoors ,#main-student{
+#main ,#main-academic ,#main-local ,#main-outdoors ,#main-student{
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(14, 1fr);
   display: grid;
@@ -99,7 +99,7 @@ nav ul li a:hover, footer ul li a:hover {
   grid-row: 2/3;
   grid-column: 1/4;
   text-align: center;
-  color: white;
+  color: darkblue
 
 }
 #main-academic-title{
