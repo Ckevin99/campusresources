@@ -253,10 +253,6 @@ video{
     #divgrid1, #divgrid2, #divgrid3, #divgrid4, #divgrid5, #divgrid6, #divgrid7, #divgrid8, #divgrid9 {
       grid-column: 1;
       grid-row: auto;
-<<<<<<< Updated upstream
-      box-shadow: 0 1px 2px #575757; 
-=======
->>>>>>> Stashed changes
     }
     #divgrid2{
         grid-row: 3/4;
