@@ -10,9 +10,9 @@ a, h1, h2, h3, h4, p {
 }*/
 
 #logo img{
- max-width: 150px;
- padding-left: 25px;
- padding-right: 25px;
+ max-width: 96px;
+ padding-left: 15px;
+ padding-right: 15px;
 }
 
 body {
@@ -38,14 +38,14 @@ nav ul li a, footer ul li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 40px 18px;
+  padding: 20px 9px;
   text-decoration: none;
   align-items: center;
   transition: background-color 0.3s;
 }
 
 footer ul li a {
-  padding: 40px 18px;
+  padding: 20px 9px;
 }
 
 nav ul li a:hover, footer ul li a:hover {
@@ -182,7 +182,7 @@ video{
   }
 
   nav ul li a, footer ul li a {
-    padding: 20px 10px;
+    padding: 10px 5px;
   }
 
   #selector {
@@ -247,7 +247,7 @@ video{
     }
   
     nav ul li a, footer ul li a {
-      padding: 10px 5px;
+      padding: 8px 4px;
     }
   
     #selector {
