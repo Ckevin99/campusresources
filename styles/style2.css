@@ -80,7 +80,7 @@ nav ul li a:hover, footer ul li a:hover {
   }
 
 #main, #main-academic, #main-local, #main-outdoors, #main-student {
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(14, 1fr);
   display: grid;
   width: 100%;
@@ -123,39 +123,40 @@ nav ul li a:hover, footer ul li a:hover {
 }
 
 #divgrid3 {
-  grid-column: 3/4;
-  grid-row: 3/7;
+  grid-column: 1/2;
+  grid-row: 7/11;
 }
 
 #divgrid4 {
-  grid-column: 1/2;
+  grid-column: 2/3;
   grid-row: 7/11;
 }
 
 #divgrid5 {
-  grid-column: 2/3;
-  grid-row: 7/11;
-}
-
-#divgrid6 {
-  grid-column: 3/4;
-  grid-row: 7/11;
-}
-
-#divgrid7 {
   grid-column: 1/2;
   grid-row: 11/15;
 }
 
-#divgrid8 {
+#divgrid6 {
   grid-column: 2/3;
   grid-row: 11/15;
 }
 
-#divgrid9 {
-  grid-column: 3/4;
-  grid-row: 11/15;
+#divgrid7 {
+  grid-column: 1/2;
+  grid-row: 15/19;
+
 }
+
+#divgrid8 {
+  grid-column: 2/3;
+  grid-row: 15/19;
+
+}
+
+/* #divgrid9 {
+  
+} */ 
 
 #important {
   grid-row: 1/4;
@@ -195,7 +196,7 @@ video{
     grid-row: 2/3;
   }
   #lastselector a {
-    margin-left: 30%;
+    margin-left: 28%;
   }
 
 
